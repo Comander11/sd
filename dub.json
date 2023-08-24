@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Comander"
+	],
+	"copyright": "Copyright © 2023, Comander",
+	"description": "D library for versatile object serialization/deserialization, supporting integral types, arrays, and strings efficiently",
+	"license": "MIT",
+	"name": "sd"
+}
